@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Haswant Kumar Kinthali
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kamsu_Ravi_Teeja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haswant-kumar-kinthali/)](https://www.linkedin.com/in/haswant-kumar-kinthali/)
-[![Gmail Badge](https://img.shields.io/badge/-ravirt7911-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haswanth1611@gmail.com)](mailto:haswanth1611@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-haswantkumar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haswanth1611@gmail.com)](mailto:haswanth1611@gmail.com)
 
 - 🌱 I’m currently Amazon AWs
 - 💬 Ask me about FrontEnd Development Cloud Computing, Data Analysis
