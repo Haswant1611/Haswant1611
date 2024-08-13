@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Haswant-Kumar-Kinthali-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haswant-kumar-kinthali/)](https://www.linkedin.com/in/haswant-kumar-kinthali/)
 [![Gmail Badge](https://img.shields.io/badge/-haswant-kumar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haswanth1611@gmail.com)](mailto:haswanth1611@gmail.com)
 
-- 🌱 I’m currently Amazon AWs
+- 🌱 I’m currently learning Amazon AWS
 - 💬 Ask me about FrontEnd Development Cloud Computing, Data Analysis
 - 📫 Reach out to me at haswanth1611@gmail.com
 ## 📊 GitHub Stats:
